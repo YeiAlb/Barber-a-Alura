@@ -1,2 +1,2 @@
-# Barber-a-Alura
+# Barbería-Alura
 Proyecto creado en el aprendizaje general del programa académico Oracle-Alura Latam.
